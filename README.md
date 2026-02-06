@@ -80,4 +80,4 @@ Les tables sont connectées autour de la table **Orders** via des relations (1-N
 - Modèle de données propre et calculs testés
 
 ## Période de Réalisation
-Du **02/02/2026** au **07/02/2026**
+Du **02/02/2026** au **06/02/2026**
